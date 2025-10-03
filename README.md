@@ -5,8 +5,10 @@ Here is my little collection of PICO-8 games. Feel free to try them and have fun
 # Table of Contents
 
 **Games :**
-- [Galaxy Savior](#galaxy-savior)  
+- [Galaxy Savior](#galaxy-savior)
+
 **About the projects :**
+
 - [Software and Language](#software-and-language)
 - [Authors](#authors)
 
