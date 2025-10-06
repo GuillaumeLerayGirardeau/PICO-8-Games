@@ -17,7 +17,7 @@ Here is my little collection of PICO-8 games. Feel free to try them and have fun
 *Galaxy Savior* is a simple space shooter where you have to destroy meteors to save your planet !  
 The game include a game menu, powerups and a score system.
 
-<img width="803" height="804" alt="Capture d'écran 2025-10-06 160249" src="https://github.com/user-attachments/assets/95f23b39-b64e-4441-b330-c2b08bfbe10e" />
+<img width="503" height="504" alt="Capture d'écran 2025-10-06 160249" src="https://github.com/user-attachments/assets/95f23b39-b64e-4441-b330-c2b08bfbe10e" />
 
 - **Spritesheet**
 
