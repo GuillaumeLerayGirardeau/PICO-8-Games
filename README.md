@@ -39,7 +39,7 @@ These games were created with the fantasy console **PICO-8**. You can learn more
 All of the game files are written with the programming language **Lua**. You can learn more about this language on this website :
 
 - https://www.lua.org/
-- 
+
 ## Authors
  
 - [@GuillaumeLerayGirardeau](https://github.com/GuillaumeLerayGirardeau)
